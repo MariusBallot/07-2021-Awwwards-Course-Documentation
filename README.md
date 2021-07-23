@@ -1,7 +1,7 @@
 # 👨‍💻✨ The fun process of creating lively interactive 3D scenes for the web ✨👨‍💻
-## A course by <a href="https://mariusballot.com">Marius Ballot</a>
+## A course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
 
-This Git Repository is the documentation and entrypoint for every assets demos and others of the Awwwards academy course: <strong><a href="https://awwwards.com/academy">The fun process of creating lively interactive 3D scenes for the web</a></strong>.
+This Git Repository is the documentation and entrypoint for every assets demos and others of the Awwwards academy course: <strong><a target="_blank" href="https://awwwards.com/academy">The fun process of creating lively interactive 3D scenes for the web</a></strong>.
 
 ### A bit about the course
 
@@ -10,8 +10,8 @@ This Git Repository is the documentation and entrypoint for every assets demos a
     *  How this course came to be ?
     *  Let's just have some fun creating stuff
 *  II Some fundamentals
-    * [Blender, the basics](#blenderBasics)
-    *  WebGL with Three.js, the basics
+    *  [Blender, the basics](#blenderBasics)
+    *  [WebGL with Three.js, the basics](#threebasics)
     *  Shaders, shaders, shaders...
     *  The fascinating and important process of tool building
     *  How I roll about getting more skills
@@ -42,9 +42,14 @@ This Git Repository is the documentation and entrypoint for every assets demos a
 #### Blender the basics<a name="blenderBasics"></a>
 
 Some amazing Blender YouTube chanels
-* <a href="https://www.youtube.com/user/AndrewPPrice">Blender Guru</a>
-* <a href="https://www.youtube.com/user/Blenderfan93">CG Geek</a>
-* <a href="https://www.youtube.com/user/FlippedNormalsTuts">FlippedNormals</a>
-* <a href="https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ">Ducky 3D</a>
-* <a href="https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg">CGMatter</a>
-* <a href="https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ">Default Cube</a>
+* <a target="_blank" href="https://www.youtube.com/user/AndrewPPrice">Blender Guru</a>
+* <a target="_blank" href="https://www.youtube.com/user/Blenderfan93">CG Geek</a>
+* <a target="_blank" href="https://www.youtube.com/user/FlippedNormalsTuts">FlippedNormals</a>
+* <a target="_blank" href="https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ">Ducky 3D</a>
+* <a target="_blank" href="https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg">CGMatter</a>
+* <a target="_blank" href="https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ">Default Cube</a>
+
+#### WebGL with Three.js, the basics <a name="threebasics"></a>
+
+Three js Bearbones Boiler plate
+* <a target="_blank" href="https://www.youtube.com/user/AndrewPPrice">Three js Bearbones Boiler plate (not the bon lien)</a>
