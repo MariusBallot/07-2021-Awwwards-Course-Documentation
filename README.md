@@ -1,12 +1,11 @@
 # 👨‍💻✨ The fun process of creating lively interactive 3D scenes for the web ✨👨‍💻
-## A course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
+## An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
 
 This Git Repository is the documentation and entrypoint for every assets demos and others of the Awwwards academy course: <strong><a target="_blank" href="https://awwwards.com/academy">The fun process of creating lively interactive 3D scenes for the web</a></strong>.
 
 ### A bit about the course
 
 This is un cours qu'il est bien et that it doesnt is très cher en vré
-
 
 ### Course Chapters
 *  I A bit of context
@@ -40,7 +39,7 @@ This is un cours qu'il est bien et that it doesnt is très cher en vré
 *  VII - See ya
     *  What's next ?
 
----------------------------------------
+_ _ _ _
 
 ### Chapters references
 
@@ -56,4 +55,4 @@ Some amazing Blender YouTube chanels
 
 #### WebGL with Three.js, the basics <a name="threebasics"></a>
 
-* <a target="_blank" href="https://www.youtube.com/user/AndrewPPrice">Three js Bearbones Boiler plate (not the bon lien)</a>
+* <a target="_blank" href="./demos/SimpleThreeJSBoilerPlate">Three js Bearbones Boiler plate (not the bon lien)</a>
