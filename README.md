@@ -5,6 +5,9 @@ This Git Repository is the documentation and entrypoint for every assets demos a
 
 ### A bit about the course
 
+This is un cours qu'il est bien et that it doesnt is très cher en vré
+
+
 ### Course Chapters
 *  I A bit of context
     *  How this course came to be ?
@@ -37,6 +40,8 @@ This Git Repository is the documentation and entrypoint for every assets demos a
 *  VII - See ya
     *  What's next ?
 
+---------------------------------------
+
 ### Chapters references
 
 #### Blender the basics<a name="blenderBasics"></a>
@@ -51,5 +56,4 @@ Some amazing Blender YouTube chanels
 
 #### WebGL with Three.js, the basics <a name="threebasics"></a>
 
-Three js Bearbones Boiler plate
 * <a target="_blank" href="https://www.youtube.com/user/AndrewPPrice">Three js Bearbones Boiler plate (not the bon lien)</a>
