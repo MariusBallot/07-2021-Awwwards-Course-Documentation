@@ -46,14 +46,14 @@ _ _ _ _
 #### Blender the basics<a name="blenderBasics"></a>
 
 Some amazing Blender YouTube chanels
-* <a target="_blank" href="https://www.youtube.com/user/AndrewPPrice">Blender Guru</a>
-* <a target="_blank" href="https://www.youtube.com/user/Blenderfan93">CG Geek</a>
-* <a target="_blank" href="https://www.youtube.com/user/FlippedNormalsTuts">FlippedNormals</a>
-* <a target="_blank" href="https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ">Ducky 3D</a>
-* <a target="_blank" href="https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg">CGMatter</a>
-* <a target="_blank" href="https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ">Default Cube</a>
+* <a href="https://www.youtube.com/user/AndrewPPrice" target="_blank">Blender Guru</a>
+* <a href="https://www.youtube.com/user/Blenderfan93" target="_blank">CG Geek</a>
+* <a href="https://www.youtube.com/user/FlippedNormalsTuts" target="_blank">FlippedNormals</a>
+* <a href="https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ" target="_blank">Ducky 3D</a>
+* <a href="https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg" target="_blank">CGMatter</a>
+* <a href="https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ" target="_blank">Default Cube</a>
 
 #### WebGL with Three.js, the basics <a name="threebasics"></a>
 
-* <a target="_blank" href="./demos/SimpleThreeJSBoilerPlate">Three js Bearbones Boiler plate</a>
-* <a target="_blank" href="./demos/ThreeJSModelImportExample">Three js GLTF imported model example</a>
+* <a href="./demos/SimpleThreeJSBoilerPlate" target="_blank">Three js Bearbones Boiler plate</a>
+* <a href="./demos/ThreeJSModelImportExample" target="_blank">Three js GLTF imported model example</a>
