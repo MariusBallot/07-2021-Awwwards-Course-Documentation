@@ -55,4 +55,5 @@ Some amazing Blender YouTube chanels
 
 #### WebGL with Three.js, the basics <a name="threebasics"></a>
 
-* <a target="_blank" href="./demos/SimpleThreeJSBoilerPlate">Three js Bearbones Boiler plate (not the bon lien)</a>
+* <a target="_blank" href="./demos/SimpleThreeJSBoilerPlate">Three js Bearbones Boiler plate</a>
+* <a target="_blank" href="./demos/ThreeJSModelImportExample">Three js GLTF imported model example</a>
