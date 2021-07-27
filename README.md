@@ -53,15 +53,14 @@ Some amazing Blender YouTube chanels
 * <a href="https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg" target="_blank">CGMatter</a>
 * <a href="https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ" target="_blank">Default Cube</a>
 
+    ##### Post editing notes
+    * 10m14s -> Blender's Evee renderer actually IS a real time renderer
+    * 10m18s -> Blender's Cycles renderer uses rayscasting for its rendering process giving this "close to reality" lighting conditions. More on raycasting <a href="https://en.wikipedia.org/wiki/Ray_casting">right here</a>
+
 #### WebGL with Three.js, the basics <a name="threebasics"></a>
 
 * <a href="./demos/SimpleThreeJSBoilerPlate" target="_blank">Three.js Bearbones Boiler plate</a>
 * <a href="./demos/ThreeJSModelImportExample" target="_blank">Three.js GLTF imported model example</a>
-
-
-    ##### Post editing notes
-    * 10m14s -> Blender's Evee renderer actually IS a real time renderer
-    * 10m18s -> Blender's Cycles renderer uses rayscasting for its rendering process giving this "close to reality" lighting conditions. More on raycasting <a href="https://en.wikipedia.org/wiki/Ray_casting">right here</a>
 
 
 #### Shader, shaders, shaders... <a name="shaders"></a>
