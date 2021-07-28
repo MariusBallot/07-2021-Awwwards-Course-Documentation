@@ -41,7 +41,7 @@ This is un cours qu'il est bien et that it doesnt is très cher en vré
 
 _ _ _ _
 
-### Chapters references
+### Chapters' references
 
 #### Blender the basics<a name="blenderBasics"></a>
 
@@ -59,10 +59,17 @@ Some amazing Blender YouTube chanels
 
 #### WebGL with Three.js, the basics <a name="threebasics"></a>
 
+Source files
 * <a href="./demos/SimpleThreeJSBoilerPlate" target="_blank">Three.js Bearbones Boiler plate</a>
 * <a href="./demos/ThreeJSModelImportExample" target="_blank">Three.js GLTF imported model example</a>
 
 
 #### Shader, shaders, shaders... <a name="shaders"></a>
 
+Shaders documentations and resources
+* [The Book of Shaders](https://thebookofshaders.com/)
+* [Pixel Spirit Deck](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/)
+* [Shadertoys.com](https://www.shadertoy.com/)
+
+Source files
 * <a href="./demos/SimpleThreeJShader" target="_blank">Simple Three.js custom shader setup</a>
