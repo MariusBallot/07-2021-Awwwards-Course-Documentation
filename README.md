@@ -55,9 +55,9 @@ Some amazing Blender YouTube chanels
 
 
 
-    >##### Post editing notes
-    > * 10m14s -> Blender's Evee renderer actually IS a real time renderer
-    > * 10m18s -> Blender's Cycles renderer uses rayscasting for its rendering process giving this "close to reality" lighting conditions. More on raycasting <a href="https://en.wikipedia.org/wiki/Ray_casting">right here</a>
+>##### Post editing notes
+> * 10m14s -> Blender's Evee renderer actually IS a real time renderer
+> * 10m18s -> Blender's Cycles renderer uses rayscasting for its rendering process giving this "close to reality" lighting conditions. More on raycasting <a href="https://en.wikipedia.org/wiki/Ray_casting">right here</a>
 
 
 #### WebGL with Three.js, the basics <a name="threebasics"></a>
@@ -76,3 +76,20 @@ Shaders documentations and resources
 
 Source files
 * <a href="./demos/SimpleThreeJShader" target="_blank">Simple Three.js custom shader setup</a>
+
+#### The fascinating and important process of tool building <a name="tools"></a>
+
+
+
+#### How I roll about getting more skills <a name="skills"></a>
+
+#### Visual inspiration <a name="visInsp"></a>
+#### Technical inspiration <a name="technInsp"></a>
+#### Plan of action <a name="plan"></a>
+
+My favorite project management tools
+* [Trello](https://trello.com/)
+* [Notion](https://www.notion.so/)
+
+#### Dev environment and workflow overview <a name="workflow"></a>
+#### 3D modeling and layout <a name="modeling"></a>
