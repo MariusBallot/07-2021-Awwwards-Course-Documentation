@@ -14,7 +14,7 @@ This is un cours qu'il est bien et that it doesnt is très cher en vré
 *  II Some fundamentals
     *  [Blender, the basics](#blenderBasics)
     *  [WebGL with Three.js, the basics](#threebasics)
-    *  [Shaders, shaders, shaders...](#shaders)
+    *  [Shaders, shaders, shaders...](#shadersBasics)
     *  [The fascinating and important process of tool building](#tools)
     *  [How I roll about getting more skills](#skills)
 *  III - Before creating
@@ -67,7 +67,7 @@ Source files
 * <a href="./demos/ThreeJSModelImportExample" target="_blank">Three.js GLTF imported model example</a>
 
 
-#### Shader, shaders, shaders... <a name="shaders"></a>
+#### Shader, shaders, shaders... <a name="shadersBasics"></a>
 
 Shaders documentations and resources
 * [The Book of Shaders](https://thebookofshaders.com/)
@@ -97,6 +97,34 @@ Source files
 Source files
 * <a href="./demos/IBC-SoundPillards/P2-3DModelingAndLayout" target="_blank">P2 - 3D Modeling And Layout Sources</a>
 
-#### 3D modeling and layout <a name="modeling"></a>
+#### From Blender to browser<a name="modelExport"></a>
 Source files
-* <a href="./demos/IBC-SoundPillards/P2-3DModelingAndLayout" target="_blank">P2 - 3D Modeling And Layout Sources</a>
+* <a href="./demos/IBC-SoundPillards/P3-FromBlenderToBrowser" target="_blank">P3 - From Blender to browser</a>
+
+#### Model manipulation<a name="modelManip"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P4-ModelManipulation" target="_blank">P4 - Model manipulation</a>
+
+#### Oh yeah, Shaders<a name="shadersDev"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P5-Shaders" target="_blank">P5 - Oh yeah, Shaders</a>
+
+#### Audio Reactors<a name="audioReact"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P6-AudioReactors" target="_blank">P6 - Audio Reactors</a>
+
+#### Particles<a name="particles"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P7-Particles" target="_blank">P7 - Particles</a>
+
+#### GUI and customization<a name="gui"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P8-GUIAndCustomization" target="_blank">P8 - GUI and customization</a>
+
+#### Lets add UI<a name="addUI"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P9-LetsAddUI" target="_blank">P9 - Lets add UI</a>
+
+#### Details, details, details…<a name="details"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P10-Details" target="_blank">P10 - Details, details, details…</a>
