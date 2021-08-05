@@ -1,5 +1,6 @@
-# ✨ Vue Three Starter ✨
-A simple webgl threejs creative dev environnement in Vue.JS with GLSLify loader 👨‍💻
+# ✨ P6 - Audio reactors ✨
+## From: The fun process of creating lively interactive 3D scenes for the web
+### An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
 
 <div style="display: flex">
     <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" height="50px">
@@ -10,7 +11,8 @@ A simple webgl threejs creative dev environnement in Vue.JS with GLSLify loader 
 
 ## Project setup
 ```
-git clone https://github.com/MariusBallot/04-2021-Vue-Three-Starter.git
+git clone https://github.com/MariusBallot/07-2021-Awwwards-Course-Documentation.git <FILE NAME>
+cd <FILE NAME>/demo/IBC-SoundPillards/P6-AudioReactors
 npm i
 ```
 

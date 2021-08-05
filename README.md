@@ -79,8 +79,6 @@ Source files
 
 #### The fascinating and important process of tool building <a name="tools"></a>
 
-
-
 #### How I roll about getting more skills <a name="skills"></a>
 
 #### Visual inspiration <a name="visInsp"></a>
@@ -91,5 +89,14 @@ My favorite project management tools
 * [Trello](https://trello.com/)
 * [Notion](https://www.notion.so/)
 
-#### Dev environment and workflow overview <a name="workflow"></a>
+#### Dev environment and workflow overview <a name="workflow">
+Source files
+* <a href="https://github.com/MariusBallot/04-2021-Vue-Three-Starter" target="_blank">Vue Three.js starter</a>
+
 #### 3D modeling and layout <a name="modeling"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P2-3DModelingAndLayout" target="_blank">P2 - 3D Modeling And Layout Sources</a>
+
+#### 3D modeling and layout <a name="modeling"></a>
+Source files
+* <a href="./demos/IBC-SoundPillards/P2-3DModelingAndLayout" target="_blank">P2 - 3D Modeling And Layout Sources</a>
