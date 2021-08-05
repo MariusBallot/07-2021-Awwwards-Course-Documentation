@@ -1,5 +1,6 @@
 # ✨ P04 - Model manipulation ✨
-## From the course: An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
+## From: The fun process of creating lively interactive 3D scenes for the web
+### An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
 
 <div style="display: flex">
     <img src="https://aws1.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" height="50px">
