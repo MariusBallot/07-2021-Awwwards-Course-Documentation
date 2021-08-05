@@ -15,23 +15,23 @@ This is un cours qu'il est bien et that it doesnt is très cher en vré
     *  [Blender, the basics](#blenderBasics)
     *  [WebGL with Three.js, the basics](#threebasics)
     *  [Shaders, shaders, shaders...](#shaders)
-    *  The fascinating and important process of tool building
-    *  How I roll about getting more skills
+    *  [The fascinating and important process of tool building](#tools)
+    *  [How I roll about getting more skills](#skills)
 *  III - Before creating
-    *  Visual inspiration
-    *  Technical inspiration
-    *  Plan of action
+    *  [Visual inspiration](#visInsp)
+    *  [Technical inspiration](#technInsp)
+    *  [Plan of action](#plan)
 *  IV - Let’s create
-    *  Dev environment and workflow overview
-    *  3D modeling and layout
-    *  From Blender to browser
-    *  Model manipulation
-    *  Oh yeah, Shaders
-    *  Audio Reactors
-    *  Particles
-    *  GUI and customization
-    *  Lets add UI
-    *  Details, details, details…
+    *  [Dev environment and workflow overview](#workflow)
+    *  [3D modeling and layout](#modeling)
+    *  [From Blender to browser](#)
+    *  [Model manipulation](#)
+    *  [Oh yeah, Shaders](#)
+    *  [Audio Reactors](#)
+    *  [Particles](#)
+    *  [GUI and customization](#)
+    *  [Lets add UI](#)
+    *  [Details, details, details…](#)
 *  V - Show ya work
     *  Hosting your piece online
     *  If you like it, other people might
