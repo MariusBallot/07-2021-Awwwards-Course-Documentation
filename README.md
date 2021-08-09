@@ -16,7 +16,7 @@ This is un cours qu'il est bien et that it doesnt is très cher en vré
     *  [WebGL with Three.js, the basics](#threebasics)
     *  [Shaders, shaders, shaders...](#shadersBasics)
     *  [The fascinating and important process of tool building](#tools)
-    *  [How I roll about getting more skills](#skills)
+    *  How I roll about getting more skills
 *  III - Before creating
     *  [Visual inspiration](#visInsp)
     *  [Technical inspiration](#technInsp)
@@ -64,10 +64,10 @@ Source files
 * <a href="./demos/SimpleThreeJSBoilerPlate" target="_blank">Three.js Bearbones Boiler plate</a>
 * <a href="./demos/ThreeJSModelImportExample" target="_blank">Three.js GLTF imported model example</a>
 
-Having a ginormous comunity, you really have 1000 ways to learn three.js. Here are some of my favorite places to learn more about this wonderfull library
-* [Three.JS fundamentals](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html)
+Having a ginormous comunity, you really have 1000 ways to learn Three.js. Here are some of my favorite places to learn more about this wonderfull library
+* [Three.js fundamentals](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html)
 * [This old but still relevant youtube series](https://www.youtube.com/watch?v=YKzyhcyAijo)
-* [Three.js' examples library](https://threejs.org/examples/)
+* [Three.js examples library](https://threejs.org/examples/)
 
 Three.js also has one of the best documentation of any other js library. You can find it [here](https://threejs.org/docs/)
 
@@ -85,7 +85,11 @@ Source files
 
 #### The fascinating and important process of tool building <a name="tools"></a>
 
-#### How I roll about getting more skills <a name="skills"></a>
+The tools examples referenced in this section
+* [RAF - A global request animation frame handler](https://github.com/MariusBallot/04-2021-Vue-Three-Starter/blob/main/src/utils/RAF.js)
+* [📹 Three CamParallax 🚤](https://github.com/MariusBallot/04-2021-CamParallax)
+* [✨Three.BufferGeometry particle system✨](https://github.com/MariusBallot/Three-Particle-System)
+* [✨ Vue Three Starter ✨](https://github.com/MariusBallot/04-2021-Vue-Three-Starter)
 
 #### Visual inspiration <a name="visInsp"></a>
 Visual inspiration websites
@@ -104,7 +108,7 @@ Tech inspiration websites
 * [Codrops](https://tympanus.net/codrops/)
 * [Medium programming](https://medium.com/topic/programming)
 
-Some greate tech inspiration Twitter accounts and Youtube chanels
+Some great tech inspiration Twitter accounts and Youtube chanels
 * [Three.js' Twitter](https://twitter.com/threejs)
 * [Pavel Boytchev](https://twitter.com/PavelBoytchev)
 * [Dennys Kuhnert](https://twitter.com/DennysKuhnert)
