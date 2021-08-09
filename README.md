@@ -53,8 +53,6 @@ Some amazing Blender YouTube chanels
 * <a href="https://www.youtube.com/channel/UCy1f4m64dwCwk8CBZ_vHfPg" target="_blank">CGMatter</a>
 * <a href="https://www.youtube.com/channel/UCdpWKLNfbROyoGPV46-zaUQ" target="_blank">Default Cube</a>
 
-
-
 >##### Post editing notes
 > * 10m14s -> Blender's Evee renderer actually IS a real time renderer
 > * 10m18s -> Blender's Cycles renderer uses rayscasting for its rendering process giving this "close to reality" lighting conditions. More on raycasting <a href="https://en.wikipedia.org/wiki/Ray_casting">right here</a>
@@ -66,13 +64,21 @@ Source files
 * <a href="./demos/SimpleThreeJSBoilerPlate" target="_blank">Three.js Bearbones Boiler plate</a>
 * <a href="./demos/ThreeJSModelImportExample" target="_blank">Three.js GLTF imported model example</a>
 
+Having a ginormous comunity, you really have 1000 ways to learn three.js. Here are some of my favorite places to learn more about this wonderfull library
+* [Three.JS fundamentals](https://threejsfundamentals.org/threejs/lessons/threejs-fundamentals.html)
+* [This old but still relevant youtube series](https://www.youtube.com/watch?v=YKzyhcyAijo)
+* [Three.js' examples library](https://threejs.org/examples/)
+
+Three.js also has one of the best documentation of any other js library. You can find it [here](https://threejs.org/docs/)
+
 
 #### Shader, shaders, shaders... <a name="shadersBasics"></a>
 
 Shaders documentations and resources
 * [The Book of Shaders](https://thebookofshaders.com/)
 * [Pixel Spirit Deck](https://patriciogonzalezvivo.github.io/PixelSpiritDeck/)
-* [Shadertoys.com](https://www.shadertoy.com/)
+* [Shadertoys](https://www.shadertoy.com/)
+* [Shader-tutorial.dev](https://shader-tutorial.dev/)
 
 Source files
 * <a href="./demos/SimpleThreeJShader" target="_blank">Simple Three.js custom shader setup</a>
@@ -82,7 +88,30 @@ Source files
 #### How I roll about getting more skills <a name="skills"></a>
 
 #### Visual inspiration <a name="visInsp"></a>
+Visual inspiration websites
+* [Pinterest](https://www.pinterest.com/)
+* [Awwwards](https://www.awwwards.com/)
+* [Dribbble](https://dribbble.com/)
+
+Some great Instagram visual inspiration accounts
+* [creativecodeart](https://www.instagram.com/creativecodeart/)
+* [shedrawswithcode](https://www.instagram.com/shedrawswithcode/)
+* [Joshua Davis](https://www.instagram.com/praystation/)
+* [boldtron](https://www.instagram.com/boldtron/)
+
 #### Technical inspiration <a name="technInsp"></a>
+Tech inspiration websites
+* [Codrops](https://tympanus.net/codrops/)
+* [Medium programming](https://medium.com/topic/programming)
+
+Some greate tech inspiration Twitter accounts and Youtube chanels
+* [Three.js' Twitter](https://twitter.com/threejs)
+* [Pavel Boytchev](https://twitter.com/PavelBoytchev)
+* [Dennys Kuhnert](https://twitter.com/DennysKuhnert)
+* [Bruno Simon](https://twitter.com/bruno_simon)
+* [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA)
+* [Sebastian Lague](https://www.youtube.com/user/Cercopithecan)
+
 #### Plan of action <a name="plan"></a>
 
 My favorite project management tools
