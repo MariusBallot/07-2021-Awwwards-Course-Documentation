@@ -177,5 +177,6 @@ _ _ _ _
 * [Sarah Manzaro](https://www.linkedin.com/in/sarah-manzaro/?originalSubdomain=fr)
 * [Lola Millot](https://www.linkedin.com/in/lola-millot-723b00208/)
 * [Charles Arnould](https://www.linkedin.com/in/charles-arnould-3a3161185/)
+* [Elena Moreac](https://www.linkedin.com/in/el%C3%A9na-mor%C3%A9ac-b764961b9/)
 * [Maximilien Dufau](https://www.linkedin.com/in/maximilien-dufau/)
 * [Karl Justiniano](https://www.linkedin.com/in/karljstn/)
