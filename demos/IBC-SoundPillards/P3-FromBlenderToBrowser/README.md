@@ -20,7 +20,7 @@ npm i
 ```
 npm start
 ```
-<img src="../../misc/sshotWarning.png"
+<img src="../../../misc/sshotWarning.png"
      alt="warning page"
      style="width: 500px;
      height: auto;" />
