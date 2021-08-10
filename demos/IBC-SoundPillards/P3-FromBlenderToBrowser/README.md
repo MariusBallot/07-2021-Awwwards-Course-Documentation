@@ -12,7 +12,7 @@
 ## Project setup
 ```
 git clone https://github.com/MariusBallot/07-2021-Awwwards-Course-Documentation.git <FILE NAME>
-cd <FILE NAME>/demo/IBC-SoundPillards/P4-ModelManipulation
+cd <FILE NAME>/demo/IBC-SoundPillards/P3-FromBlenderToBrowser
 npm i
 ```
 
@@ -20,6 +20,10 @@ npm i
 ```
 npm start
 ```
+<img src="../../misc/sshotWarning.png"
+     alt="warning page"
+     style="width: 500px;
+     height: auto;" />
 
 ### Compiles and minifies for production
 ```
