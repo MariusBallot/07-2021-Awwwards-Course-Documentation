@@ -109,7 +109,7 @@ Tech inspiration websites
 * [Medium programming](https://medium.com/topic/programming)
 
 Some great tech inspiration Twitter accounts and Youtube chanels
-* [Three.js' Twitter](https://twitter.com/threejs)
+* [Three.js Twitter](https://twitter.com/threejs)
 * [Pavel Boytchev](https://twitter.com/PavelBoytchev)
 * [Dennys Kuhnert](https://twitter.com/DennysKuhnert)
 * [Bruno Simon](https://twitter.com/bruno_simon)
