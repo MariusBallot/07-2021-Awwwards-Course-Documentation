@@ -1,7 +1,9 @@
 <template>
     <div class="titleScreen">
-        <h1>SoundPillards</h1>
-        <p>A simple creative coding example</p>
+        <div class="topLeft">
+            <h1>SoundPillards</h1>
+            <p>A simple creative coding example</p>
+        </div>
         <button v-if="!playFlag" @click="onPlay()">Play</button>
         <button v-else @click="onPause()">Pause</button>
     </div>
@@ -37,14 +39,13 @@ export default {
 
 <style scoped lang="stylus">
 .titleScreen {
-    position: absolute;
-    width: 100vw;
-    height: 100vh;
-    top: 0;
-    left: 0;
-    color: white;
-    padding: 100px;
-    pointer-events: none;
+    .topLeft {
+        position: absolute;
+        top: 0;
+        left: 0;
+        color: white;
+        padding: 100px;
+    }
 
     button {
         color: white;
