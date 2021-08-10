@@ -165,3 +165,17 @@ Source files
 #### Details, details, details…<a name="details"></a>
 Source files
 * <a href="./demos/IBC-SoundPillards/P10-Details" target="_blank">P10 - Details, details, details…</a>
+
+_ _ _ _
+
+## A huge thank you
+### Those who helped behind the scenes
+
+* [Niccolo Miranda](https://twitter.com/niccolomiranda)
+* [Michael De Laborde](https://www.linkedin.com/in/michael-de-laborde-31b873129/?originalSubdomain=fr)
+* [Adrien Calmesnil](https://twitter.com/Aquilenn)
+* [Sarah Manzaro](https://www.linkedin.com/in/sarah-manzaro/?originalSubdomain=fr)
+* [Lola Millot](https://www.linkedin.com/in/lola-millot-723b00208/)
+* [Charles Arnould](https://www.linkedin.com/in/charles-arnould-3a3161185/)
+* [Maximilien Dufau](https://www.linkedin.com/in/maximilien-dufau/)
+* [Karl Justiniano](https://www.linkedin.com/in/karljstn/)
