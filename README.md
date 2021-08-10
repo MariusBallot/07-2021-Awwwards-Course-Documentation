@@ -1,7 +1,7 @@
 # 👨‍💻✨ The fun process of creating lively interactive 3D scenes for the web ✨👨‍💻
-## An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
+## An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>🏂
 
-This Git Repository is the documentation and entrypoint for every assets demos and others of the Awwwards academy course: <strong><a target="_blank" href="https://awwwards.com/academy">The fun process of creating lively interactive 3D scenes for the web</a></strong>.
+This Git Repository is the documentation and entrypoint for every assets demos and others of the Awwwards academy course: <strong><a target="_blank" href="https://awwwards.com/academy">The fun process of creating lively interactive 3D scenes for the web</a></strong>.🔮
 
 ### A bit about the course
 
