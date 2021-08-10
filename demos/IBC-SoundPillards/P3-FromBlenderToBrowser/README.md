@@ -22,8 +22,10 @@ npm start
 ```
 <img src="../../../misc/sshotWarning.png"
      alt="warning page"
-     style="width: 500px;
+     style="width: 50%;
      height: auto;" />
+> => Advanced
+> => Proceed to `localhost`
 
 ### Compiles and minifies for production
 ```
