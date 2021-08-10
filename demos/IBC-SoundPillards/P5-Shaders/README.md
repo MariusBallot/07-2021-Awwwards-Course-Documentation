@@ -12,7 +12,7 @@
 ## Project setup
 ```
 git clone https://github.com/MariusBallot/07-2021-Awwwards-Course-Documentation.git <FILE NAME>
-cd <FILE NAME>/demo/IBC-SoundPillards/P6-AudioReactors
+cd <FILE NAME>/demo/IBC-SoundPillards/P5-Shaders
 npm i
 ```
 
@@ -20,6 +20,12 @@ npm i
 ```
 npm start
 ```
+<img src="../../../misc/yourConnection.png"
+     alt="warning page"
+     style="width: 50%;
+     height: auto;" />
+> => Advanced
+> => Proceed to `localhost`
 
 ### Compiles and minifies for production
 ```

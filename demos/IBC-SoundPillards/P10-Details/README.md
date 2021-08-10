@@ -20,6 +20,12 @@ npm i
 ```
 npm start
 ```
+<img src="../../../misc/yourConnection.png"
+     alt="warning page"
+     style="width: 50%;
+     height: auto;" />
+> => Advanced
+> => Proceed to `localhost`
 
 ### Compiles and minifies for production
 ```
