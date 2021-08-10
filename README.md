@@ -142,6 +142,10 @@ Source files
 Source files
 * <a href="./demos/IBC-SoundPillards/P5-Shaders" target="_blank">P5 - Oh yeah, Shaders</a>
 
+>##### Post editing notes
+> * 17m17s -> Single letter variable names are a bad habit of mine that would be better to avoid 😳
+> * 29m48s -> Using an if was kind of lazy but easy to understand. A more GLSL friendly approach would be using a `clamp()` method. More on that [here](https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/clamp.xhtml)
+
 #### Audio Reactors<a name="audioReact"></a>
 Source files
 * <a href="./demos/IBC-SoundPillards/P6-AudioReactors" target="_blank">P6 - Audio Reactors</a>
