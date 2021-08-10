@@ -8,10 +8,10 @@ This Git Repository is the documentation and entrypoint for every assets demos a
 This is un cours qu'il est bien et that it doesnt is très cher en vré
 
 ### Course Chapters
-*  I A bit of context
+*  I - A bit of context
     *  How this course came to be ?
     *  Let's just have some fun creating stuff
-*  II Some fundamentals
+*  II - Some fundamentals
     *  [Blender, the basics](#blenderBasics)
     *  [WebGL with Three.js, the basics](#threebasics)
     *  [Shaders, shaders, shaders...](#shadersBasics)
