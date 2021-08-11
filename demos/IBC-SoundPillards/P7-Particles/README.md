@@ -1,4 +1,4 @@
-# ✨ P5 - Particles ✨
+# ✨ P7 - Particles ✨
 ## From: The fun process of creating lively interactive 3D scenes for the web
 ### An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>
 
