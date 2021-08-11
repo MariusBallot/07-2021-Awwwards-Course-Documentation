@@ -1,11 +1,11 @@
 # 👨‍💻✨ The fun process of creating lively interactive 3D scenes for the web ✨👨‍💻
 ## An Awwwards Academy course by <a target="_blank" href="https://mariusballot.com">Marius Ballot</a>🏂
 
-This Git Repository is the documentation and entrypoint for every assets demos and others of the Awwwards academy course: <strong><a target="_blank" href="https://awwwards.com/academy">The fun process of creating lively interactive 3D scenes for the web</a></strong>.🔮
+This Git Repository is the documentation and entrypoint for every assets demos and others of the Awwwards academy course: <strong><a target="_blank" href="https://www.awwwards.com/academy/course/the-fun-process-of-creating-lively-interactive-3d-scenes-for-the-web">The fun process of creating lively interactive 3D scenes for the web</a></strong>.🔮
 
 ### A bit about the course
 
-This is un cours qu'il est bien et that it doesnt is très cher en vré
+This course is going to show you from start finish my <strong>creative development process</strong> by recreating this interactive online piece: <a href="https://ibc-soundpillards.mariusballot.com/">`IBC Sound Pillards experiment`</a>.
 
 ### Course Chapters
 *  I - A bit of context
@@ -93,6 +93,7 @@ The tools examples referenced in this section
 
 #### Visual inspiration <a name="visInsp"></a>
 Visual inspiration websites
+
 * [Pinterest](https://www.pinterest.com/)
 * [Awwwards](https://www.awwwards.com/)
 * [Dribbble](https://dribbble.com/)
