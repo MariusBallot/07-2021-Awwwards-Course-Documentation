@@ -7,6 +7,10 @@ This Git Repository is the documentation and entrypoint for every assets demos a
 
 This course is going to show you from start finish my <strong>creative development process</strong> by recreating this interactive online piece: <a href="https://ibc-soundpillards.mariusballot.com/">`IBC Sound Pillards experiment`</a>.
 
+<a href="https://ibc-soundpillards.mariusballot.com/">
+<img src="./misc/ibcSound.png" style="width: 50%; height: auto"/>
+</a>
+
 ### Course Chapters
 *  I - A bit of context
     *  How this course came to be ?
