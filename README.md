@@ -177,7 +177,7 @@ _ _ _ _
 ### Those who helped behind the scenes
 
 * [Niccolo Miranda](https://twitter.com/niccolomiranda)
-* [Michael De Laborde](https://www.linkedin.com/in/michael-de-laborde-31b873129/?originalSubdomain=fr)
+* [Michael De Laborde](https://twitter.com/michael_dlb)
 * [Adrien Calmesnil](https://twitter.com/Aquilenn)
 * [Sarah Manzaro](https://www.linkedin.com/in/sarah-manzaro/?originalSubdomain=fr)
 * [Lola Millot](https://www.linkedin.com/in/lola-millot-723b00208/)
